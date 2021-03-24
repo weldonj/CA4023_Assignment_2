@@ -6,7 +6,7 @@ In this assignment I attempt to improve a baseline sentiment analysis set up by 
 
 **Baseline -**
 
-Replicate the provided notebook which contains a baseline naive bayes setup, evluate given model and alternate models
+Replicate the provided notebook which contains a baseline naive bayes setup, evaluate given model and alternate models
 
 **Negation Handling -**
 
