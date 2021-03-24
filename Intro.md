@@ -6,11 +6,11 @@ In this assignment I attempt to improve a baseline sentiment analysis set up by 
 
 **Baseline -**
 
-Replicate the provided Notebook which contains a Baseline Naive Bayes Setup
+Replicate the provided notebook which contains a baseline naive bayes setup, evluate given model and alternate models
 
 **Negation Handling -**
 
-Introduce Megation Handling to the dataset (attempt to handle cases such as "don't skip this movie" being wrongly viewed as negative)
+Introduce negation handling to the dataset (attempt to handle cases such as "don't skip this movie" being wrongly viewed as negative)
 
 **Bigrams -**
 
@@ -22,7 +22,7 @@ Experiment with using groups of three words instead of single words
 
 **Negation Handling alongside Bigram -**
 
-Experiment with using both Negation Handling and Bigrams
+Experiment with using both negation handling and bigrams
 
 **Lexicon Setup -**
 
@@ -34,4 +34,4 @@ A summary of the overall results, comparing all set ups, approaches and models
 
 **Best model -**
 
-The best model and setup that I found, with instructions on how to use it for the Hidden set
+The best model and setup that I found, with instructions on how to use it for the hidden set
