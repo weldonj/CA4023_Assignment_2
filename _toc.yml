@@ -1,0 +1,34 @@
+- file: Intro
+  title: INTRODUCTION AND DESCRIPTION
+
+- part: Baseline
+  chapters:
+  - file: Baseline
+
+- part: Added Negation Handling
+  chapters:
+  - file: Negation
+
+- part: Bigrams instead of Unigrams
+  chapters:
+  - file: Bigram 
+
+- part: Trigrams instead of Unigrams
+  chapters:
+  - file: Trigram
+
+- part: Bigrams alongside Negation Handling
+  chapters:
+  - file: Bigram-NegationHandling
+
+- part: Lexicon Approach
+  chapters:
+  - file: Lexicon
+
+- part: Overall Results
+  chapters:
+  - file: Results
+
+- part: Test on Hidden Set
+  chapters:
+  - file: TestOnHiddenSet
